@@ -31,6 +31,9 @@ app.listen(5000, ()=>{
 O- Response Methods - 
  - send
  - sendfile
+ - json
+ - sendstatus also status(500).send('hi')
+ - download - to make download the data to user
 
 
 
